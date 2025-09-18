@@ -16,6 +16,7 @@
 ### Recursos
 
 - [El libro de Python](https://ellibrodepython.com/)
+- [Tutorial de Python](https://docs.python.org/es/3/tutorial/)
 
 ## UT00: Introducción a Docker
 
