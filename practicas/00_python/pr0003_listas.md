@@ -230,3 +230,4 @@ Crea un programa que genere una lista de `n` números aleatorios entre 1 y 100. 
 Escribe una función que elimine los duplicados de una lista pero mantenga el orden de aparición de los elementos.
 
 
+[Volver al índice](./../bda.md)

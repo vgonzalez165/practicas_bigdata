@@ -232,3 +232,4 @@ Dada una lista de tuplas con pares (clave, valor), construye un diccionario que 
 * **Ejemplo**: `[("a",1), ("b",2), ("a",1), ("a",2)]` → `{("a",1):2, ("b",2):1, ("a",2):1}`
 
 
+[Volver al índice](./../bda.md)

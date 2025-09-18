@@ -324,3 +324,5 @@ Dada una lista de números, aplica con `map` una transformación en la que cada 
 numeros = [1, 2, 3, 4]
 # Resultado esperado: [5, 7, 9, 11]
 ```
+
+[Volver al índice](./../bda.md)
