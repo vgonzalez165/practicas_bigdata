@@ -6,7 +6,6 @@
 
 Crea un programa que solicite un número por pantalla al usuario y siga pidiéndolo hasta que el usuario introduzca un número válido.
 
----
 
 ### 2. Tabla de multiplicar
 
@@ -21,7 +20,6 @@ Crea un programa que solicite un número `n` y un valor `k` y que muestre por la
 5 * 12 = 60
 ```
 
----
 
 ### 3. Triángulo de asteriscos
 Crea un programa que solicite un número al usuario y dibuje un triángulo con asteriscos cuya base sea el número introducido.
@@ -36,7 +34,6 @@ Crea un programa que solicite un número al usuario y dibuje un triángulo con a
 *****
 ```
 
----
 
 ### 4. Pirámide de asteriscos
 
@@ -52,19 +49,16 @@ Modifica el programa anterior para que en lugar de crear un triángulo cree una 
 *********
 ```
 
----
 
 ### 5. Número mayor y menor 
 
 Crea un programa que pida al usuario que introduzca 5 números y luego le diga cuál es el mayor y el menor de todos ellos de la forma: `El número mayor es <mayor> y el menor es <menor>`
 
----
 
 ### 6. Conversión de unidades 
 
 Crea un programa que convierta entre diferentes unidades de longitud (milímetros, centímetros, metros y kilómetros). El usuario introducirá primero la cantidad, luego la unidad de medida en que está y finalmente la unidad de medida a la que se va a convertir.
 
---- 
 
 ### 7. Acierta el número
 
@@ -72,7 +66,6 @@ Crea un programa que genere un número aleatorio entre 0 y 100 y el usuario teng
 
 Para generar un número aleatorio puedes utilizar la función `randint(a, b)` que devuelve un entero aleatorio entre `a` y `b`. Para poder utilizar esta función antes tienes que importar la librería con la orden `from random import *`
 
---- 
 
 ### 8. Piedra, papel o tijeras
 
@@ -94,7 +87,7 @@ En el enlace anterior puedes ver un diagrama donde tal vez veas mejor las relaci
 
 Ganará el primero que gane 5 manos.
 
---- 
+
 
 ### 9.- Secuencia de Fibonacci
 
@@ -106,14 +99,12 @@ fib(1) = 1
 fib(n) = fib(n-2) + fib(n-1)
 ```
 
----
 
 ### 10. Números primos
 
 Crea un programa que solicite un número al usuario y le diga si es primo o no.
 Un número primo solo es divisible por 1 y por sí mismo.
 
----
 
 ### 11. Factorial de un número
 
@@ -126,13 +117,13 @@ n! = 1 * 2 * 3 * ... * n
 
 * **Ejemplo**: `5! = 120`.
 
----
+
 
 ### 12. Contador de vocales y consonantes
 
 Crea un programa que solicite al usuario una cadena de texto y muestre cuántas vocales y cuántas consonantes contiene.
 
----
+
 
 ### 13. Invertir una cadena
 
@@ -140,7 +131,6 @@ Crea un programa que pida al usuario una cadena de texto y muestre la misma cade
 
 * **Ejemplo**: `"python"` → `"nohtyp"`.
 
----
 
 ### 14. Palíndromos
 
@@ -149,13 +139,13 @@ Crea un programa que solicite al usuario una palabra y determine si es un palín
 * **Ejemplo**: `"oso"` → palíndromo.
 * **Ejemplo**: `"casa"` → no es palíndromo.
 
----
+
 
 ### 15. Números pares e impares
 
 Crea un programa que pida al usuario un número entero positivo `n` y muestre todos los números pares e impares entre `1` y `n`.
 
----
+
 
 ### 16. Suma de dígitos
 
@@ -163,27 +153,27 @@ Crea un programa que pida al usuario un número entero y calcule la suma de todo
 
 * **Ejemplo**: `327 → 3 + 2 + 7 = 12`.
 
----
+
 
 ### 17. Calculadora simple
 
 Crea un programa que pida al usuario dos números y una operación (suma, resta, multiplicación o división) y muestre el resultado.
 
----
+
 
 ### 18. Conversión de temperaturas
 
 Crea un programa que convierta entre grados Celsius, Fahrenheit y Kelvin.
 El usuario introducirá primero la cantidad y la unidad de origen, y después la unidad de destino.
 
----
+
 
 ### 19. Generador de contraseñas
 
 Crea un programa que genere una contraseña aleatoria de una longitud que indique el usuario.
 La contraseña debe incluir letras mayúsculas, minúsculas, números y símbolos especiales.
 
----
+
 
 ### 20. Ordenar lista de números
 
