@@ -2,6 +2,8 @@
 
 ## PR0003: Ejercicios con listas
 
+**NOTA**: entrega de por lo menos 10 ejercicios
+
 Para todos los apartados de este primer ejercicio vas a utilizar la siguiente lista:
 
 ```python

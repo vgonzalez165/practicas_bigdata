@@ -2,7 +2,7 @@
 
 ## PR0002: Ejercicios de cadenas
 
-
+**NOTA**: entrega de por lo menos 10 ejercicios
 
 ### 1. Contar vocales y consonantes
 

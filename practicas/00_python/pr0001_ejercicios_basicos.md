@@ -2,6 +2,8 @@
 
 ## PR0001: Ejercicios básicos en Python
 
+**NOTA**: entrega de por lo menos 10 ejercicios
+
 ### 1. Lectura de un número válido
 
 Crea un programa que solicite un número por pantalla al usuario y siga pidiéndolo hasta que el usuario introduzca un número válido.

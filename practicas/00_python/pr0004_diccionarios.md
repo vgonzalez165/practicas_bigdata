@@ -2,6 +2,8 @@
 
 ## PR0004: Ejercicios con diccionarios
 
+**NOTA**: entrega de por lo menos 10 ejercicios
+
 ### 1.- Buscar valor en un diccionario
 
 Crea un diccionario de frutas y precios. Permite al usuario ingresar el nombre de una fruta y muestra su precio si existe en el diccionario, o un mensaje de que no está disponible en caso contrario.
