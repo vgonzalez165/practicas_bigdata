@@ -1,32 +1,5 @@
 # BIG DATA APLICADO
 
-
-
-## UT00: El lenguaje de programación Python
-
-### Prácticas
-
--  [PR0001: Ejercicios básicos](./00_python/pr0001_ejercicios_basicos.md)
--  [PR0002: Cadenas](./00_python/pr0002_cadenas.md)
--  [PR0003: Listas](./00_python/pr0003_listas.md)
--  [PR0004: Diccionarios](./00_python/pr0004_diccionarios.md)
--  [PR0005: Programación funcional](./00_python/pr0004_diccionarios.md)
--  PR0006: Programación orientada a objetos (POO)
-
-### Recursos
-
-- [El libro de Python](https://ellibrodepython.com/)
-- [Tutorial de Python](https://docs.python.org/es/3/tutorial/)
-
-## UT00: Introducción a Docker
-
-### Prácticas
-
-### Recursos
-
-
-
-
 ## UT01: Introducción a Apache Hadoop
 
 ### Prácticas
