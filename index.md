@@ -4,4 +4,4 @@
 
 - [**Big Data Aplicado**](./practicas/bda.md)
 - [**Sistemas de Big Data**](./practicas/sbd.md)
-- [**Otros**](./practicas/otros.md)
+- [**Otros (Python y Docker)**](./practicas/otros.md)
