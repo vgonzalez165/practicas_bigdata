@@ -12,6 +12,9 @@
 
 ### Prácticas
 
+- [PR0201: Cadenas en Redis](./sbd/ut02_almacenamiento/pr0201.md)
+- [PR0202: Listas en Redis](./sbd/ut02_almacenamiento/pr0202.md)
+
 ### Recursos
 
 ## UT03: Gestión de los datos
