@@ -14,6 +14,7 @@
 
 - [PR0201: Cadenas en Redis](./sbd/ut02_almacenamiento/pr0201.md)
 - [PR0202: Listas en Redis](./sbd/ut02_almacenamiento/pr0202.md)
+- [PR0203: Estructuras avanzadas de Redis](./sbd/ut02_almacenamiento/pr0203.md)
 
 ### Recursos
 
