@@ -20,50 +20,28 @@
 - [Guía de comandos HDFS](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-hdfs/HDFSCommands.html)
 
 
-## UT03: Almacenamiento distribuido. S3 y MinIO
+## UT03: Gestión del clúster con Yarn
+
+
+## UT04: Procesamiento distribuido con MapReduce
 
 ### Prácticas
 
-### Recursos
+- [PR0401: Contando palabras](./bda/ut04/pr0401.md)
 
-## UT04: Escalando Hadoop. Configuración de un clúster con Yarn
 
-### Prácticas
 
-### Recursos
 
-## UT05: Procesamiento distribuido: MapReduce
+## UT05: Procesamiento distribuido con Spark
 
-### Prácticas
 
-### Recursos
+## UT06: Almacenamiento distribuido con MinIO y S3
 
-## UT06: Procesamiento distribuido: Apache Spark
 
-### Prácticas
+## UT07: Ingesta de datos con Flume y Sqoop
 
-### Recursos
 
-## UT07: Procesamiento de datos con Hive y Pig
+## UT08: Manipulación de datos con Hive y Pig
 
-### Prácticas
 
-### Recursos
-
-## UT08: Ingesta de datos con Flume y Sqoop
-
-### Prácticas
-
-### Recursos
-
-## UT09: Orquestación y automatización de flujos de trabajo: Oozie y Airflow
-
-### Prácticas
-
-### Recursos
-
-## UT10: Monitorizacíón y métricas en entornos Big Data: Ganglia
-
-### Prácticas
-
-### Recursos
+## UT09: Administración y monitorización de sistemas Hadoop
