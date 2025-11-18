@@ -28,6 +28,7 @@
 ### Prácticas
 
 - [PR0401: Contando palabras](./bda/ut04/pr0401.md)
+- [PR0402: Datos del clima](./bda/ut04/pr0402.md)
 
 
 
