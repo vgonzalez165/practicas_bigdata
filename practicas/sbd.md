@@ -16,7 +16,7 @@
 - [PR0202: Listas en Redis](./sbd/ut02_almacenamiento/pr0202.md)
 - [PR0203: Estructuras avanzadas de Redis](./sbd/ut02_almacenamiento/pr0203.md)
 - [PR0204: Datos geoespaciales en Redis](./sbd/ut02_almacenamiento/pr0204.md)
-- [PR0205: Escritura de datos en InfluxDB](./sbd/ut02_almacenamiento/pr0204.md)
+- [PR0205: Escritura de datos en InfluxDB](./sbd/ut02_almacenamiento/pr0205.md)
 
 ### Recursos
 
