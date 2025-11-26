@@ -196,3 +196,5 @@ Perfecto 🚀. Te preparo **un total de 10 ejercicios por categoría (Cadenas, L
 19. Obtener un hash geoespacial de París (`GEOHASH`).
 20. Obtener los hashes de todas las ciudades almacenadas.
 
+
+

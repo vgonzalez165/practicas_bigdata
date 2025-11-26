@@ -17,6 +17,7 @@
 - [PR0203: Estructuras avanzadas de Redis](./sbd/ut02_almacenamiento/pr0203.md)
 - [PR0204: Datos geoespaciales en Redis](./sbd/ut02_almacenamiento/pr0204.md)
 - [PR0205: Escritura de datos en InfluxDB](./sbd/ut02_almacenamiento/pr0205.md)
+- [PR0206: Ingesta de datos financieros en InfluxDB](./sbd/ut02_almacenamiento/pr0206.md)
 
 ### Recursos
 
