@@ -20,3 +20,18 @@ POIS = [
     {"id": "poi_019", "name": "Matadero Madrid", "lon": -3.703200, "lat": 40.391600},
     {"id": "poi_020", "name": "Estadio Cívitas Metropolitano", "lon": -3.599100, "lat": 40.436300},
 ]
+
+
+
+
+from datetime import datetime, timezone
+
+date_ = "2017-07-16 23:59:59"
+
+# Indicamos el formato que tiene la fecha
+dt = datetime.strptime(date_, "%Y-%m-%d %H:%M:%S")   
+# Pasamos el tiempo a UTC
+dt_utc = dt.replace(tzinfo=timezone.utc)              
+# Y pasamos a ISO 8601
+time_date = dt_utc.isoformat().replace('+00:00', 'Z') 
+             

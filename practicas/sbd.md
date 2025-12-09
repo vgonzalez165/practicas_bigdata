@@ -10,6 +10,7 @@
 | `PR0204`   | [Datos geoespaciales en Redis](./sbd/ut02_almacenamiento/pr0204.md)    | **30/11/2025** | `RA3` |
 | `PR0205`   | [Escritura de datos en InfluxDB](./sbd/ut02_almacenamiento/pr0205.md)  | **03/12/2025** | `RA3` |
 | `PR0206`   | [Ingesta de datos InfluxDB](./sbd/ut02_almacenamiento/pr0206.md)       | **03/12/2025** | `RA3` |
+| `PR0207`   | [Flux](./sbd/ut02_almacenamiento/pr0207.md)                            |                | `RA3` |
 | **UT03**   | **Gestión de los datos**                                               | | |
 |    | |                     | |
 | **UT04**   | **Análisis y búsqueda de respuestas en datos**                         | | |
