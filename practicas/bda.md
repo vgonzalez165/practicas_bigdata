@@ -12,7 +12,7 @@
 | **UT04**   | **Procesamiento distribuido con MapReduce**                               |
 | `PR0401`   | [Contando palabras](./bda/ut04/pr0401.md)                                 | **04/12/2025** | `RA1` |
 | `PR0402`   | [Datos del clima](./bda/ut04/pr0402.md)                                   | **04/12/2025** | `RA1` |
-| `PR0403`   | [Análisis de logs](./bda/ut04/pr0403.md)                                  | **10/12/2025** | `RA1` |   
+| `PR0403`   | [Análisis de logs](./bda/ut04/pr0403.md)                                  | **16/12/2025** | `RA1` |   
 | **UT05**   | **Procesamiento distribuido con Spark**                                                            |
 |    | |                     |
 | **UT06**   | **Almacenamiento distribuido con Spark y MinIO**                                                   |
