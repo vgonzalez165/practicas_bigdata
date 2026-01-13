@@ -16,7 +16,8 @@
 | `PR0404`   | [Patrones de diseño MapReduce](./bda/ut04/pr0404.md)                      | **04/01/2026** | `RA1` |   
 | **UT05**   | **Procesamiento distribuido con Spark**                                                            |
 | `PR0501`   | [Carga de ficheros CSV en PySpark](./bda/ut05/pr0501.md)                  | **21/01/2026** | `RA1` |
-| `PR0502`   | [Manipulación básica de dataframes](./bda/ut05/pr0502.md)                  | **21/01/2026** | `RA1` |
+| `PR0502`   | [Manipulación básica de dataframes](./bda/ut05/pr0502.md)                 | **-** | `RA1` |
+| `PR0503`   | [Limpieza de datos sobre dataset de cultivos](./bda/ut05/pr0503.md)       | **-** | `RA1` |
 | **UT06**   | **Almacenamiento distribuido con s3 y MinIO**                                                   |
 |    | |                     |
 | **UT07**   | **Ingesta de datos con Flume y Scoop**                                                             |
