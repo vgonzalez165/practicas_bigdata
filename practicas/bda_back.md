@@ -15,8 +15,15 @@
 | `PR0403`   | [Análisis de logs](./bda/ut04/pr0403.md)                                  | **16/12/2025** | `RA1` |   
 | `PR0404`   | [Patrones de diseño MapReduce](./bda/ut04/pr0404.md)                      | **04/01/2026** | `RA1` |   
 | **UT05**   | **Procesamiento distribuido con Spark**                                                            |
+<<<<<<< HEAD:practicas/bda_back.md
 |    | |                     |
 | **UT06**   | **Almacenamiento distribuido con S3 y MinIO**                                                   |
+=======
+| `PR0501`   | [Carga de ficheros CSV en PySpark](./bda/ut05/pr0501.md)                  | **21/01/2026** | `RA1` |
+| `PR0502`   | [Manipulación básica de dataframes](./bda/ut05/pr0502.md)                 | **-** | `RA1` |
+| `PR0503`   | [Limpieza de datos sobre dataset de cultivos](./bda/ut05/pr0503.md)       | **-** | `RA1` |
+| **UT06**   | **Almacenamiento distribuido con s3 y MinIO**                                                   |
+>>>>>>> b81928393924e2147e3dc79ca829d3fa8c986b42:practicas/bda.md
 |    | |                     |
 | **UT07**   | **Ingesta de datos con Flume y Scoop**                                                             |
 |    | |                     |
