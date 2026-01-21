@@ -16,7 +16,7 @@
 | `PR0404`   | [Patrones de diseño MapReduce](./bda/ut04/pr0404.md)                      | **04/01/2026** | `RA1` |   
 | **UT05**   | **Procesamiento distribuido con Spark**                                                            |
 |    | |                     |
-| **UT06**   | **Almacenamiento distribuido con Spark y MinIO**                                                   |
+| **UT06**   | **Almacenamiento distribuido con S3 y MinIO**                                                   |
 |    | |                     |
 | **UT07**   | **Ingesta de datos con Flume y Scoop**                                                             |
 |    | |                     |
