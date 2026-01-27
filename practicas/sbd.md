@@ -12,7 +12,8 @@
 | `PR0206`   | [Ingesta de datos InfluxDB](./sbd/ut02_almacenamiento/pr0206.md)       | **10/12/2025** | `RA3` |
 | `PR0207`   | [Flux](./sbd/ut02_almacenamiento/pr0207.md)                            | **18/12/2025** | `RA3` |
 | **UT03**   | **Gestión de los datos**                                               | | |
-| `PR0301`   | [Ingesta de datos de archivos](./sbd/ut03_gestion/pr0301.md)           | **30/01/2026** | `RA?` |
+| `PR0301`   | [Ingesta de datos de archivos CSV, JSON y Excel (I)](./sbd/ut03_gestion/pr0301.md)           | **30/01/2026** | `RA?` |
+| `PR0302`   | [Ingesta de datos de archivos CSV, JSON y Excel (II)](./sbd/ut03_gestion/pr0302.md)           | **-** | `RA?` |
 |    | |                     | |
 | **UT04**   | **Análisis y búsqueda de respuestas en datos**                         | | |
 |    | |                     | |
