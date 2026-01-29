@@ -18,7 +18,8 @@
 | `PR0501`   | [Carga de ficheros CSV en PySpark](./bda/ut05/pr0501.md)                  | **21/01/2026** | `RA1` |
 | `PR0502`   | [Manipulación básica de dataframes](./bda/ut05/pr0502.md)                 | **-**          | `RA1` |
 | `PR0503`   | [Limpieza de datos sobre dataset de cultivos](./bda/ut05/pr0503.md)       | **-**          | `RA1` |
-| `PR0504`   | [Limpieza de datos sobre dataset de lugares famosos](./bda/ut05/pr0504.md)| **-**          | `RA1` |
+| `PR0504A`  | [Limpieza de datos sobre dataset de lugares famosos](./bda/ut05/pr0504a.md)| **-**          | `RA1` |
+| `PR0504B`  | [Limpieza de datos sobre dataset alojamientos turísticos](./bda/ut05/pr0504b.md)| **-**          | `RA1` |
 | **UT06**   | **Almacenamiento distribuido con s3 y MinIO**                                                   |
 |    | |                     |
 | **UT07**   | **Ingesta de datos con Flume y Scoop**                                                             |
