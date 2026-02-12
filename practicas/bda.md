@@ -20,6 +20,7 @@
 | `PR0503`   | [Limpieza de datos sobre dataset de cultivos](./bda/ut05/pr0503.md)       | **-**          | `RA1` |
 | `PR0504A`  | [Limpieza de datos sobre dataset de lugares famosos](./bda/ut05/pr0504a.md)| **-**          | `RA1` |
 | `PR0504B`  | [Limpieza de datos sobre dataset alojamientos turísticos](./bda/ut05/pr0504b.md)| **-**          | `RA1` |
+| `PR0505`   | [Datos estadísticos](./bda/ut05/pr0505.md)| **-**          | `RA1` |
 | **UT06**   | **Almacenamiento distribuido con s3 y MinIO**                                                   |
 |    | |                     |
 | **UT07**   | **Ingesta de datos con Flume y Scoop**                                                             |
