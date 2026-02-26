@@ -21,7 +21,8 @@
 | `PR0504A`  | [Limpieza de datos sobre dataset de lugares famosos](./bda/ut05/pr0504a.md)| **-**          | `RA1` |
 | `PR0504B`  | [Limpieza de datos sobre dataset alojamientos turísticos](./bda/ut05/pr0504b.md)| **-**          | `RA1` |
 | `PR0505`   | [Datos estadísticos](./bda/ut05/pr0505.md)                                 | **-**          | `RA1` |
-| `PR0505`   | [Comportamiento usuarios Netflix](./bda/ut05/pr0506.md)                    | **-**          | `RA1` |
+| `PR0506`   | [Comportamiento usuarios Netflix](./bda/ut05/pr0506.md)                    | **-**          | `RA1` |
+| `PR0507`   | [Motor de recomendación gastronómico](./bda/ut05/pr0507.md)                | **-**          | `RA1` |
 | **UT06**   | **Almacenamiento distribuido con s3 y MinIO**                                                   |
 |    | |                     |
 | **UT07**   | **Ingesta de datos con Flume y Scoop**                                                             |
