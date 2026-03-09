@@ -15,14 +15,14 @@
 | `PR0403`   | [Análisis de logs](./bda/ut04/pr0403.md)                                   | **16/12/2025** | `RA1` |   
 | `PR0404`   | [Patrones de diseño MapReduce](./bda/ut04/pr0404.md)                       | **04/01/2026** | `RA1` |   
 | **UT05**   | **Procesamiento distribuido con Spark**                                                             |
-| `PR0501`   | [Carga de ficheros CSV en PySpark](./bda/ut05/pr0501.md)                   | **21/01/2026** | `RA1` |
-| `PR0502`   | [Manipulación básica de dataframes](./bda/ut05/pr0502.md)                  | **-**          | `RA1` |
-| `PR0503`   | [Limpieza de datos sobre dataset de cultivos](./bda/ut05/pr0503.md)        | **-**          | `RA1` |
-| `PR0504A`  | [Limpieza de datos sobre dataset de lugares famosos](./bda/ut05/pr0504a.md)| **-**          | `RA1` |
-| `PR0504B`  | [Limpieza de datos sobre dataset alojamientos turísticos](./bda/ut05/pr0504b.md)| **-**          | `RA1` |
-| `PR0505`   | [Datos estadísticos](./bda/ut05/pr0505.md)                                 | **-**          | `RA1` |
-| `PR0506`   | [Comportamiento usuarios Netflix](./bda/ut05/pr0506.md)                    | **-**          | `RA1` |
-| `PR0507`   | [Motor de recomendación gastronómico](./bda/ut05/pr0507.md)                | **-**          | `RA1` |
+| `PR0501`   | [Carga de ficheros CSV en PySpark](./bda/ut05/pr0501.md)                        | **21/01/2026** | `RA1` |
+| `PR0502`   | [Manipulación básica de dataframes](./bda/ut05/pr0502.md)                       | **15/03/2026** | `RA1` |
+| `PR0503`   | [Limpieza de datos sobre dataset de cultivos](./bda/ut05/pr0503.md)             | **15/03/2026** | `RA1` |
+| `PR0504A`  | [Limpieza de datos sobre dataset de lugares famosos](./bda/ut05/pr0504a.md)     | **15/03/2026** | `RA1` |
+| `PR0504B`  | [Limpieza de datos sobre dataset alojamientos turísticos](./bda/ut05/pr0504b.md)| **15/03/2026** | `RA1` |
+| `PR0505`   | [Datos estadísticos](./bda/ut05/pr0505.md)                                      | **15/03/2026** | `RA1` |
+| `PR0506`   | [Comportamiento usuarios Netflix](./bda/ut05/pr0506.md)                         | **15/03/2026** | `RA1` |
+| `PR0507`   | [Motor de recomendación gastronómico](./bda/ut05/pr0507.md)                     | **15/03/2026** | `RA1` |
 | **UT06**   | **Almacenamiento distribuido con s3 y MinIO**                                                   |
 |    | |                     |
 | **UT07**   | **Ingesta de datos con Flume y Scoop**                                                             |

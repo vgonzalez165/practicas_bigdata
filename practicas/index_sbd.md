@@ -13,9 +13,9 @@
 | `PR0207`   | [Flux](./sbd/ut02_almacenamiento/pr0207.md)                                         | **18/12/2025** | `RA3` |
 | **UT03**   | **Gestión de los datos**                                                            | | |
 | `PR0301`   | [Ingesta de datos de archivos CSV, JSON y Excel (I)](./sbd/ut03_gestion/pr0301.md)  | **30/01/2026** | `RA1` |
-| `PR0302`   | [Ingesta de datos de archivos CSV, JSON y Excel (II)](./sbd/ut03_gestion/pr0302.md) | **17/02/2026** | `RA1` |
-| `PR0303`   | [Ingesta de datos de APIs REST](./sbd/ut03_gestion/pr0303.md)                       | **17/02/2026** | `RA1` |
-| `PR0304`   | [API de YouTube](./sbd/ut03_gestion/pr0304.md)                                      | **17/02/2026** | `RA1` |
+| `PR0302`   | [Ingesta de datos de archivos CSV, JSON y Excel (II)](./sbd/ut03_gestion/pr0302.md) | **15/03/2026** | `RA1` |
+| `PR0303`   | [Ingesta de datos de APIs REST](./sbd/ut03_gestion/pr0303.md)                       | **15/03/2026** | `RA1` |
+| `PR0304`   | [API de YouTube](./sbd/ut03_gestion/pr0304.md)                                      | **15/03/2026** | `RA1` |
 |    | |                     | |
 | **UT04**   | **Análisis y búsqueda de respuestas en datos**                         | | |
 |    | |                     | |
