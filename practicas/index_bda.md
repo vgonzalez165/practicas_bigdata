@@ -23,7 +23,8 @@
 | `PR0505`   | [Datos estadísticos](./bda/ut05/pr0505.md)                                      | **15/03/2026** | `RA1` |
 | `PR0506`   | [Comportamiento usuarios Netflix](./bda/ut05/pr0506.md)                         | **15/03/2026** | `RA1` |
 | `PR0507`   | [Motor de recomendación gastronómico](./bda/ut05/pr0507.md)                     | **15/03/2026** | `RA1` |
-| **UT06**   | **Almacenamiento distribuido con s3 y MinIO**                                                   |
+| **UT06**   | **Almacenamiento distribuido con s3**                                                   |
+| `PR0601`   | [Capa bronce en AWS](./bda/ut05/pr0507.md)                     | **xx** | `xx` |
 |    | |                     |
 | **UT07**   | **Ingesta de datos con Flume y Scoop**                                                             |
 |    | |                     |
