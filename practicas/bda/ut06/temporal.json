@@ -1,0 +1,11 @@
+{
+  "version": "0",
+  "id": "b9bb594c-f61a-8890-1e78-59298cdc6c04",
+  "detail-type": "Scheduled Event",
+  "source": "aws.events",
+  "account": "136527737802",
+  "time": "2026-04-09T08:43:20Z",
+  "region": "us-east-1",
+  "resources": ["arn:aws:events:us-east-1:136527737802:rule/lambda_1_minuto"],
+  "detail": {}
+}
