@@ -20,4 +20,5 @@
 | **UT04**   | **Análisis y búsqueda de respuestas en datos**                         | | |
 |    | |                     | |
 | **UT05**   | **Visualización de datos y cuadros de mando**                          | | |
-| `PR0501`   | [Introducción a Vega Altair](./sbd/ut05_visualizacion/pr0501.md)                     | **** | `xxx` |
+| `PR0501`   | [Introducción a Vega Altair](./sbd/ut05_visualizacion/pr0501.md)                     | **05/05/2026** | `xxx` |
+| `PR0502`   | [Visualización multivista con Altair](./sbd/ut05_visualizacion/pr0502.md)            | **05/05/2026** | `xxx` |
