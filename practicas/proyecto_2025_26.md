@@ -3,6 +3,10 @@
 
 **Curso de Especialización en IA y Big Data - IES San Andrés - Curso 2025-26**
 
+**Primera fecha de entrega**: 07/05/2026
+**Segunda fecha de entrega**: 15/06/2026
+
+
 ## 1. Contexto del Proyecto
 
 La transición energética depende de la capacidad de predecir la demanda eléctrica para optimizar el uso de fuentes renovables. Tu misión en este proyecto será construir un **pipeline de datos híbrido** que recoja información de la Red Eléctrica de España (REE), datos meteorológicos históricos y factores socio-económicos para entrenar un modelo capaz de predecir el consumo eléctrico nacional.
