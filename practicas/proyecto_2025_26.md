@@ -100,4 +100,31 @@ En este proyecto deberás entregar:
 
 ## 6. Criterios de Evaluación
 
-**Pendiente**
+
+## Módulo: Big Data Aplicado
+
+| Resultado de Aprendizaje (RA) | Criterio de Evaluación (Ítems) | Insuficiente (0-4) | Suficiente/Notable (5-8) | Sobresaliente (9-10) |
+| :--- | :--- | :--- | :--- | :--- |
+| **RA1. Gestión de soluciones y almacenamiento** | Configuración de la capa Bronce en AWS S3 y uso de herramientas como AWS Lambda para la ingesta. | No usa S3 o la ingesta es manual sin automatización. | Usa S3 y Lambda de forma funcional, aunque con configuración básica. | Configuración óptima de S3 y Lambdas eficientes con gestión de permisos. |
+| | Implementación de almacenamiento local (HDFS/Contenedores). | No implementa almacenamiento local estructurado. | Implementa almacenamiento local funcional (Docker/HDFS) de forma básica. | Estructura local robusta, bien documentada y escalable. |
+| **RA2. Sistemas de almacenamiento y ecosistema** | Implementación de la arquitectura de Medallón (Bronce, Plata, Oro). | No se distingue el flujo de datos entre capas. | Flujo de datos claro entre capas, aunque con solapamientos menores. | Arquitectura de Medallón perfectamente definida y automatizada. |
+| | Uso de formatos eficientes (Parquet) y herramientas del ecosistema (Boto3). | Los formatos no son adecuados (solo CSV/JSON) o no usa Boto3. | Usa Parquet y Boto3 correctamente para el flujo nube-local. | Optimización avanzada de esquemas y particionado en Parquet. |
+| **RA4. Seguimiento y monitorización** | Gestión de errores y fiabilidad en el flujo de datos (Logs en Lambda/Scripts). | El sistema falla frecuentemente y no tiene control de errores. | Incluye control de errores básico y logs que permiten trazabilidad. | Sistema altamente fiable con manejo de excepciones y logs detallados. |
+| | Estabilidad de la conexión híbrida local-nube. | La conexión es inestable o requiere intervención manual constante. | Conexión funcional y estable mediante credenciales seguras. | Automatización total de la sincronización con alta estabilidad. |
+| **RA5. Transformación en información significativa** | Aplicación de la metodología CRISP-DM (Fases I, II y III). | No sigue la metodología o las fases están incompletas. | Sigue las fases correctamente, documentando la comprensión del negocio/datos. | Aplicación rigurosa de CRISP-DM con análisis crítico de los datos. |
+| | Calidad de la capa Oro para la toma de decisiones. | La capa Oro no aporta valor o los datos están sucios. | La capa Oro combina fuentes y genera variables útiles. | Capa Oro optimizada con ingeniería de variables (features) de alto valor. |
+
+
+
+## Módulo: Sistemas de Big Data
+
+| Resultado de Aprendizaje (RA) | Criterio de Evaluación (Ítems) | Insuficiente (0-4) | Suficiente/Notable (5-8) | Sobresaliente (9-10) |
+| :--- | :--- | :--- | :--- | :--- |
+| **RA1. Técnicas de análisis e integración** | Integración de las tres fuentes obligatorias (ESIOS, AEMET, 3ª fuente). | Falta alguna fuente obligatoria o no están integradas. | Integra las tres fuentes de forma coherente en un mismo pipeline. | Integración fluida y lógica de múltiples fuentes con alta heterogeneidad. |
+| | Procesamiento, limpieza y normalización de datos brutos. | Datos con nulos, duplicados o formatos inconsistentes. | Limpieza adecuada: gestión de nulos, tipos de datos y escalas. | Pipeline de limpieza avanzado (estandarización, imputación técnica). |
+| **RA2. Configuración de cuadros de mando** | Conexión del Dashboard con la capa de datos (Gold). | El dashboard usa datos estáticos o manuales. | Dashboard conectado a la capa Oro que se actualiza correctamente. | Arquitectura de visualización profesional y eficiente. |
+| | Entorno de ejecución del Dashboard. | El entorno no es adecuado o es difícil de desplegar. | Entorno bien configurado (Streamlit, Dash, etc.) y funcional. | Despliegue impecable con configuración de entorno optimizada. |
+| **RA3. Gestión y almacenamiento para búsqueda** | Estructura del Diccionario de Datos de la capa Oro. | No hay diccionario o es ininteligible. | Diccionario completo con nombres de columnas, tipos y descripción. | Documentación técnica exhaustiva de cada variable y su origen. |
+| | Organización de los datos para facilitar consultas/análisis. | Los datos están desorganizados y dificultan la visualización. | Datos organizados que permiten consultas rápidas para el dashboard. | Estructura de datos optimizada para analítica (tablas de hechos/dimensiones). |
+| **RA4. Herramientas de visualización y presentación** | Calidad visual e interactividad del Dashboard. | Gráficos confusos, sin etiquetas o no interactivos. | Visualización clara con filtros funcionales y leyendas adecuadas. | Dashboard profesional, intuitivo y con gran capacidad de storytelling. |
+| | Capacidad de análisis y presentación de resultados en la defensa. | No explica bien el flujo de datos o los resultados. | Explica con claridad el proceso técnico y el valor de los datos. | Defensa brillante con justificación técnica de cada decisión tomada. |
